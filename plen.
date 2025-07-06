@@ -44,7 +44,7 @@ formation./entret1./cèc.
 
 # 11:00.
 
-formation./entret1./kou.
+gif./kou 11:00.
 
 # 12:00.
 
@@ -68,7 +68,7 @@ formation./entret1./cèc.
 
 # 17:00.
 
-formation./entret1./kou.
+gif./kou 17:00.
 
 # 18:00.
 
@@ -92,4 +92,4 @@ formation./entret1./cèc.
 
 # 23:00.
 
-formation./entret1./kou.
+gif./kou 23:00.

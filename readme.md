@@ -20,7 +20,7 @@ vous entrainer 'mobilité'.
 
 # 05:00.
 
-vous entrainer 'coup'.
+vous entrainer 'coup 1'.
 
 # 06:00.
 
@@ -44,7 +44,7 @@ vous entrainer 'mobilité'.
 
 # 11:00.
 
-vous entrainer 'coup'.
+vous entrainer 'coup 2'.
 
 # 12:00.
 
@@ -68,7 +68,7 @@ vous entrainer 'mobilité'.
 
 # 17:00.
 
-vous entrainer 'coup'.
+vous entrainer 'coup 1'.
 
 # 18:00.
 
@@ -92,4 +92,4 @@ vous entrainer 'mobilité'.
 
 # 23:00.
 
-vous entrainer 'coup'.
+vous entrainer 'coup 2'.

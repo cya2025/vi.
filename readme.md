@@ -2,6 +2,10 @@
 
 buvez l'eau.
 
+# 00:30.
+
+vous entrainer 'articulations'.
+
 # 01:00.
 
 vous entrainer 'voix'.
@@ -49,6 +53,10 @@ vous entrainer 'coup 2'.
 # 12:00.
 
 buvez l'eau.
+
+# 12:30.
+
+vous entrainer 'articulations'.
 
 # 13:00.
 

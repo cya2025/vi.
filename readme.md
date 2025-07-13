@@ -4,7 +4,7 @@ buvez l'eau.
 
 # 00:30.
 
-vous entrainer 'miroir'.
+vous entrainer 'articulation'.
 
 # 01:00.
 
@@ -29,10 +29,6 @@ vous entrainer 'coup 1'.
 # 06:00.
 
 buvez l'eau.
-
-# 06:30.
-
-vous entrainer 'articulation'.
 
 # 07:00.
 
@@ -60,7 +56,7 @@ buvez l'eau.
 
 # 12:30.
 
-vous entrainer 'miroir'.
+vous entrainer 'articulation'.
 
 # 13:00.
 
@@ -85,10 +81,6 @@ vous entrainer 'coup 1'.
 # 18:00.
 
 buvez l'eau.
-
-# 18:30.
-
-vous entrainer 'articulation'.
 
 # 19:00.
 

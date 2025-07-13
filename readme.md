@@ -101,7 +101,3 @@ vous entrainer 'pas'.
 # 23:00.
 
 vous entrainer 'coup 2'.
-
-# 23:30.
-
-vous consulter 'toka'.

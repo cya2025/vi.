@@ -20,7 +20,7 @@ vous entrainer 'sexe'.
 
 # 04:00.
 
-vous entrainer 'mobilité'.
+vous entrainer 'pas'.
 
 # 05:00.
 
@@ -44,7 +44,7 @@ vous entrainer 'sexe'.
 
 # 10:00.
 
-vous entrainer 'mobilité'.
+vous entrainer 'pas'.
 
 # 11:00.
 
@@ -72,7 +72,7 @@ vous entrainer 'sexe'.
 
 # 16:00.
 
-vous entrainer 'mobilité'.
+vous entrainer 'pas'.
 
 # 17:00.
 
@@ -96,7 +96,7 @@ vous entrainer 'sexe'.
 
 # 22:00.
 
-vous entrainer 'mobilité'.
+vous entrainer 'pas'.
 
 # 23:00.
 

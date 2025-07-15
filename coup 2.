@@ -8,11 +8,12 @@ cogner en coude vers arrière 30 seconde.
 cogner en coude vers ciel 30 seconde.
 cogner en coude vers milieu 30 seconde.
 cogner en coude vers sol 30 seconde.
-(média./cogner en coude 30 seconde.)
+(média./cogner en coude per 30 seconde.)
 
 cogner en genoux à droite 30 seconde.
 cogner en genoux à gauche 30 seconde.
 cogner en genoux vers avant 30 seconde.
+(média./cogner en genoux per 30 seconde.)
 
 cogner en marteau à droite vers ciel 30 seconde.
 cogner en marteau à droite vers milieu 30 seconde.
@@ -23,6 +24,7 @@ cogner en marteau à gauche vers sol 30 seconde.
 cogner en marteau vers ciel 30 seconde.
 cogner en marteau vers milieu 30 seconde.
 cogner en marteau vers sol 30 seconde.
+(média./cogner en marteau per 30 seconde.)
 
 cogner en pied à droite vers ciel 30 seconde.
 cogner en pied à droite vers milieu 30 seconde.
@@ -34,6 +36,7 @@ cogner en pied vers arrière 30 seconde.
 cogner en pied vers ciel 30 seconde.
 cogner en pied vers milieu 30 seconde.
 cogner en pied vers sol 30 seconde.
+(média./cogner en pied per 30 seconde.)
 
 cogner en poing à droite vers ciel 30 seconde.
 cogner en poing à droite vers milieu 30 seconde.
@@ -45,6 +48,7 @@ cogner en poing vers arrière 30 seconde.
 cogner en poing vers ciel 30 seconde.
 cogner en poing vers milieu 30 seconde.
 cogner en poing vers sol 30 seconde.
+(média./cogner en poing per 30 seconde.)
 
 cogner en pronation à droite vers ciel 30 seconde.
 cogner en pronation à droite vers milieu 30 seconde.
@@ -55,6 +59,7 @@ cogner en pronation à gauche vers sol 30 seconde.
 cogner en pronation vers ciel 30 seconde.
 cogner en pronation vers milieu 30 seconde.
 cogner en pronation vers sol 30 seconde.
+(média./cogner en pronation per 30 seconde.)
 
 cogner en supination à droite vers ciel 30 seconde.
 cogner en supination à droite vers milieu 30 seconde.
@@ -65,3 +70,4 @@ cogner en supination à gauche vers sol 30 seconde.
 cogner en supination vers ciel 30 seconde.
 cogner en supination vers milieu 30 seconde.
 cogner en supination vers sol 30 seconde.
+(média./cogner en supination per 30 seconde.)
